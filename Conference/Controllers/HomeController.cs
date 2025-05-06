@@ -2,7 +2,7 @@ using System.Diagnostics;
 using Conference.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-
+// checking git repo push!
 namespace Conference.Controllers
 {
     public class HomeController : Controller
